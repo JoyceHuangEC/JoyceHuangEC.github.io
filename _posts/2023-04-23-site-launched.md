@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Joyce, Launches Site"
+title: "Site Launched"
 date: 2023-04-23
 ---
 
