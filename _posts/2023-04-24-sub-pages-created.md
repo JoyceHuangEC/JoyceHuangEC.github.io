@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Create Sub Pages"
+title: "Sub Pages Created"
 date: 2023-04-24
 ---
 
